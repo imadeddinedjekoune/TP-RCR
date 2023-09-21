@@ -1,0 +1,57 @@
+:Base dse.hlp
+:Title DSE Application Help
+1 Overview
+2 DSE Overview=overview
+2 Scenarios=scenarios
+2 Hypotheses=hypotheses
+2 Data Sources=sources
+2 Evidence=evidence
+2 Combining Evidence=combine
+2 Tutorial=tutorial
+1 Common Tasks
+2 Data Sources
+3 Adding Data Sources=dsadd
+3 Deleting Data Dources=dsdel
+3 Modifying Data Sources=dsmod
+2 Hypotheses
+3 Adding Hypotheses=hyadd
+3 Deleting Hypotheses=hydel
+3 Modifying Hypotheses=hymod
+2 Evidence
+3 Adding Evidence=evadd
+3 Deleting Evidence=evdel
+3 Modifying Evidence=evmod
+2 Other
+3 Normalising Probabilities=norm
+3 Combining Evidence=howcombine
+1 Advanced Topics
+2 Keyboard Shortcuts=shortcut
+2 Tips and Tricks=tips
+1 Menu Reference
+2 File menu=menu_file
+2 Edit menu=menu_edit
+2 Hypothesis menu=menu_hypothesis
+2 Evidence menu=menu_evidence
+2 View menu=menu_view
+2 Tools menu=menu_tools
+2 Help menu=menu_help
+1 Display Reference
+2 Chart view=HIDR_CHARTVIEW
+2 Evidence View=HIDR_EVIVIEW
+2 Hypothesis View=HIDR_HYPVIEW
+2 The Toolbar=AFX_HIDW_TOOLBAR
+2 The Status Bar=AFX_HIDW_STATUS_BAR
+1 Dialog Box Reference
+2 Scenario Properties=HID_PROPERTIES
+2 Add Data Source=HIDD_PROPADDDS
+2 New Hypothesis=HIDD_HYPADD
+2 Edit Hypothesis=HIDD_HYPEDIT
+2 Hypothesis Relationships=HIDD_HYPREL
+2 New Evidence=HIDD_EVIADD
+2 Edit Evidence=HIDD_EVIEDIT
+2 Result Properties=HIDD_RESPROP
+2 Combine Evidence=HIDD_COMB
+2 Normalise Probabilities=HIDD_NORM
+1 General
+2 Contacting the Author=author
+2 License Agreement=license
